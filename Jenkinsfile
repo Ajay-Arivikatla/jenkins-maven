@@ -6,6 +6,18 @@ maven 'maven'
 
 stages {
 
+
+
+
+
+
+
+
+
+
+
+
+  
 stage ('compile')
 {
 steps {
